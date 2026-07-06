@@ -26,9 +26,8 @@ This repository contains Java programs related to arrays, covering basic to inte
 ## 🛠️ Technologies Used
 
 - Java
-- VS Code / IntelliJ IDEA
-- JDK 8+
-
+- VS Code
+  
 ## 📂 Project Structure
 
 ```text
@@ -83,15 +82,8 @@ This repository is created for:
 - Learning Java Arrays
 - Practicing DSA Fundamentals
 - Interview Preparation
-- Academic Assignments and Lab Work
 
-## 🤝 Contributions
 
-Contributions are welcome. Feel free to fork the repository and submit pull requests.
-
-## 📜 License
-
-This project is open source and available under the MIT License.
 
 ---
 
